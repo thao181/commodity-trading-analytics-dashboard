@@ -149,6 +149,8 @@ The dashboard was designed using a dark teal corporate theme with interactive fi
 
 ### Executive Overview
 
+<img width="1098" height="626" alt="Screenshot 2026-07-28 at 16 15 28" src="https://github.com/user-attachments/assets/64e702a0-e10c-4083-8f43-a2b29f25ad8e" />
+
 Provides a high-level summary of commodity trading performance.
 
 Key visuals include:
@@ -162,6 +164,7 @@ Key visuals include:
 ---
 
 ### Monthly Commodity Trading Report
+<img width="1091" height="622" alt="Screenshot 2026-07-28 at 16 15 37" src="https://github.com/user-attachments/assets/32452d03-8b18-4b1b-b74d-07ac5f9c4bc7" />
 
 Provides detailed analysis of activity during the selected reporting month.
 
