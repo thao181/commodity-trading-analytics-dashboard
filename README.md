@@ -176,11 +176,6 @@ The page includes:
 
 ---
 
-## Key Metrics
-
-### Total Trade Notional
-
-Represents the total contractual value of all selected trades.
 
 ```text
 Total Trade Notional = Traded Volume × Contract Price
